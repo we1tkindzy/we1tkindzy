@@ -9,7 +9,7 @@
 
 📫 Написать мне можете в <a href="https://t.me/valentin74q">телеграмм</a>.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=we1tkindzy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=we1tkindzy)](https://github.com/we1tkindzy/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=we1tkindzy&hide=contribs,prs)
 
