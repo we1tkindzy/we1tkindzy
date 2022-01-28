@@ -9,5 +9,5 @@
 
 📫 Написать мне можете в <a href="https://t.me/valentin74q">телеграмм</a>.
 
-//![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=we1tkindzy&hide=contribs,prs&show_icons=true&theme=buefy)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=we1tkindzy&hide=contribs,prs&show_icons=true&theme=buefy)-->
 
