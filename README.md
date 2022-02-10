@@ -2,7 +2,7 @@
 
 Я Валентин, являюсь React-разработчиком.
 
-Несколько проектов, которые я создал:
+Несколько проектов, которые я на практике создал:
 - <a href="https://liga-bank-blush.vercel.app/">Liga Bank</a>;
 - <a href="https://erdyakov-guitar-shop.vercel.app/">Guitar Shop</a>;
 - <a href="https://erdyakov-avto-moto.vercel.app/">Avto Moto</a>.
