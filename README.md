@@ -2,10 +2,10 @@
 
 Я Валентин, являюсь React-разработчиком.
 
-Несколько проектов, которые я создал на практике:
-- <a href="https://liga-bank-blush.vercel.app/">Liga Bank</a>;
-- <a href="https://erdyakov-guitar-shop.vercel.app/">Guitar Shop</a>;
-- <a href="https://erdyakov-avto-moto.vercel.app/">Avto Moto</a>.
+Несколько моих проектов:
+- <a href="https://github.com/we1tkindzy/liga_bank">Liga Bank</a>;
+- <a href="https://github.com/we1tkindzy/guitar_shop">Guitar Shop</a>;
+- <a href="https://github.com/we1tkindzy/Erdyakov_avto-moto">Avto Moto</a>.
 
 📫 Написать мне можете в <a href="https://t.me/hxlser">телеграмм</a>.
 
