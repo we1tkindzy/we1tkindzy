@@ -6,6 +6,7 @@
 - <a href="https://github.com/we1tkindzy/liga_bank">Liga Bank</a>;
 - <a href="https://github.com/we1tkindzy/guitar_shop">Guitar Shop</a>;
 - <a href="https://github.com/we1tkindzy/Erdyakov_avto-moto">Avto Moto</a>.
+- < a href="https://github.com/we1tkindzy/1085399-pognali-22">проект «Погнали»</a>
 
 📫 Написать мне можете в <a href="https://t.me/hxlser">телеграмм</a>.
 
