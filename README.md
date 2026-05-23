@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-Я Валентин, React-разработчик, во фронтенде уже более четырех лет.
+Я Валентин, React-разработчик, во фронтенде уже более пяти лет.
 
 Несколько моих проектов:
+- <a href="https://github.com/we1tkindzy/syncboard">Syncboard</a>;
 - <a href="https://github.com/we1tkindzy/liga_bank">Liga Bank</a>;
 - <a href="https://github.com/we1tkindzy/guitar_shop">Guitar Shop</a>;
 - <a href="https://github.com/we1tkindzy/1085399-cinemaddict-13">Проект «Киноман»</a>.
